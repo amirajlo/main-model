@@ -1,0 +1,21 @@
+{
+    "name": "amirajlo/yii2-main-model",
+    "description": "main model for yii2",
+    "type": "library",
+    "keywords": ["yii2", "yii", "yiiframeowrk", "main model"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "amirajlo",
+            "email": "amirajlo@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "amirajlo\\main-model\\": ""
+        }
+    }
+}
